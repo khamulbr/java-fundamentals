@@ -1,12 +1,13 @@
 package com.alessandrodias.javafundamentals.part02.after;
 
 public class Shape {
+	public int facing;
 
-	void rotate() {
+	public void rotate() {
 		
 	}
 	
-	void playSound() {
+	public void playSound() {
 		
 	}
 }

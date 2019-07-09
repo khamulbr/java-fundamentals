@@ -6,13 +6,13 @@ public class Amoeba extends Shape {
 	int y;
 	
 	@Override
-	void rotate() {
+	public void rotate() {
 		// TODO Auto-generated method stub
 		super.rotate();
 	}
 	
 	@Override
-	void playSound() {
+	public	void playSound() {
 		// TODO Auto-generated method stub
 		super.playSound();
 	}
