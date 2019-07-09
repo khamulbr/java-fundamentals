@@ -1,5 +1,8 @@
 package com.alessandrodias.javafundamentals.part01;
 
+//code based on Head First: Java examples
+//by Sierra and Bates, 2010
+
 public class MySecondApp {
 
 	public static void main(String args[]) 
